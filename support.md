@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Support
 ---
 
@@ -10,9 +9,8 @@ app, and there is no server, no account, no cloud, and no network connections.
 
 ## Get help
 
-Email [nunya.support@proton.me](mailto:nunya.support@proton.me). This is
-not a personal email address and not a link to an issue tracker; it is a
-dedicated contact channel for Nunya support requests.
+Email nunya.support@proton.me. This is a dedicated contact channel for Nunya
+support requests, not a personal email address and not an issue tracker.
 
 ## Frequently asked questions
 
@@ -53,3 +51,9 @@ devices.
 
 Nearby phone-to-phone messaging is planned for a future update. The privacy
 policy will be updated before it ships.
+
+## About this page
+
+This page is published at
+https://legendaryghostx.github.io/nunya-support/support, alongside the privacy
+policy at https://legendaryghostx.github.io/nunya-support/privacy.

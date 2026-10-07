@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Privacy Policy
 ---
 
@@ -86,5 +85,7 @@ nothing else survives.
 
 ## Questions
 
-If anything here is unclear, reach out to
-[nunya.support@proton.me](mailto:nunya.support@proton.me).
+This policy is published at
+https://legendaryghostx.github.io/nunya-support/privacy, alongside the support
+page at https://legendaryghostx.github.io/nunya-support/support. If anything
+here is unclear, email nunya.support@proton.me.
